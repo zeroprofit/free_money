@@ -1,3 +1,3 @@
 # Free Money
-An application to fairly and equally distribute the newly created money in society.
+An application to distribute the newly created money from the government.
 --------
