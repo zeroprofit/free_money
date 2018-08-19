@@ -1,3 +1,3 @@
 # Free Money
-An application to distribute the newly created money.
+An application to price free money and distribute the newly created money.
 --------
